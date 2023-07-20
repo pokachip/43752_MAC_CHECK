@@ -1,0 +1,15 @@
+C:\Users\pokac\source\repos\SSH_MAC_CHECK\SSH_MAC_CHECK\bin\Release\SSH_MAC_CHECK.exe.config
+C:\Users\pokac\source\repos\SSH_MAC_CHECK\SSH_MAC_CHECK\bin\Release\SSH_MAC_CHECK.exe
+C:\Users\pokac\source\repos\SSH_MAC_CHECK\SSH_MAC_CHECK\bin\Release\SSH_MAC_CHECK.pdb
+C:\Users\pokac\source\repos\SSH_MAC_CHECK\SSH_MAC_CHECK\bin\Release\Renci.SshNet.dll
+C:\Users\pokac\source\repos\SSH_MAC_CHECK\SSH_MAC_CHECK\bin\Release\Renci.SshNet.xml
+C:\Users\pokac\source\repos\SSH_MAC_CHECK\SSH_MAC_CHECK\obj\Release\SSH_MAC_CHECK.csproj.AssemblyReference.cache
+C:\Users\pokac\source\repos\SSH_MAC_CHECK\SSH_MAC_CHECK\obj\Release\SSH_MAC_CHECK.F1CS43752_MAC_CHECK.resources
+C:\Users\pokac\source\repos\SSH_MAC_CHECK\SSH_MAC_CHECK\obj\Release\SSH_MAC_CHECK.Properties.Resources.resources
+C:\Users\pokac\source\repos\SSH_MAC_CHECK\SSH_MAC_CHECK\obj\Release\SSH_MAC_CHECK.csproj.GenerateResource.cache
+C:\Users\pokac\source\repos\SSH_MAC_CHECK\SSH_MAC_CHECK\obj\Release\SSH_MAC_CHECK.csproj.CoreCompileInputs.cache
+C:\Users\pokac\source\repos\SSH_MAC_CHECK\SSH_MAC_CHECK\obj\Release\SSH_MAC_CHECK.csproj.CopyComplete
+C:\Users\pokac\source\repos\SSH_MAC_CHECK\SSH_MAC_CHECK\obj\Release\SSH_MAC_CHECK.exe
+C:\Users\pokac\source\repos\SSH_MAC_CHECK\SSH_MAC_CHECK\obj\Release\SSH_MAC_CHECK.pdb
+C:\Users\pokac\source\repos\SSH_MAC_CHECK\SSH_MAC_CHECK\bin\Release\Renci.SshNet.Async.dll
+C:\Users\pokac\source\repos\SSH_MAC_CHECK\SSH_MAC_CHECK\bin\Release\Renci.SshNet.Async.xml
